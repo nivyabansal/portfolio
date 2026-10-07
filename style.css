@@ -1,0 +1,50 @@
+
+       *{margin: 0%;
+    
+background-color: #b4d2c1;}
+        .head
+        { border: 2px solid hsl(140, 66%, 13%);
+            background-color: #185130;
+       
+   
+text-align: center;
+        }
+        #head1
+        {padding: 30px 0;
+background-image: url("https://i.postimg.cc/8kxQfbSS/frog.jpg");
+background-clip: text;
+color: transparent;
+font-size: 50px;
+width: 100%;
+text-shadow: none;}
+        h2
+        {padding: 30px 0;
+border: 2px solid #00ff6e;
+background-color: #00ff6e;
+ text-align: center;
+ color: #185130;
+
+        }
+    P{ padding: 30px 40px;
+        background-color: #9fcfb4;
+        background-image: url("background.jpeg");
+        background-repeat:no-repeat ;
+        background-size: cover;
+        background-clip:padding-box ;
+        background-attachment: scroll;
+        text-align: center;
+        text-decoration: wavy;
+
+    }
+    .intro
+    { display: flex;
+        justify-content: center;
+
+        margin : 20px;
+    }
+    #intro1{
+        border: 2px solid rgb(160, 210, 160);
+    }
+    #intro2{
+        border: 2px solid rgb(160, 210, 160);
+    }
